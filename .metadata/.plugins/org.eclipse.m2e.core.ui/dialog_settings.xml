@@ -48,6 +48,9 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="DI_Inject_value_into_Collection_using_Constructor"/>
+			<item value="DI_Inject_value_to_reference_Using_Constructor"/>
+			<item value="DI_inject_value_Using_Constructor"/>
 			<item value="DI_Inject_Object_Using_Map"/>
 			<item value="DI_Inject_list_using_setter"/>
 			<item value="DI_Inject_Object_Reference_Variable_using_setter"/>
