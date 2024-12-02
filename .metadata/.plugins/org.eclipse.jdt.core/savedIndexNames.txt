@@ -4,9 +4,7 @@ INDEX VERSION 1.134+D:\J2EE\Spring\.metadata\.plugins\org.eclipse.jdt.core
 1865797976.index
 3632484323.index
 2423769750.index
-2927447192.index
 3985131686.index
 1049449366.index
 1733247070.index
 2297918016.index
-723078399.index
