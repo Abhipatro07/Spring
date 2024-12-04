@@ -44,12 +44,15 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="js.Spring"/>
 			<item value="jsp.Spring"/>
+			<item value="js.Spring"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Spring_Class_level_annotation"/>
+			<item value="Inject_values_into_variable_using_setter_and_annotation"/>
+			<item value="Inject_value_into_variable_using_Constructor_and_anootation"/>
 			<item value="Inject_value_into_variable_using_valueannotation"/>
 			<item value="Spring_Configuration_using_XML_and_Annotation"/>
 			<item value="DI_Inject_value_to_Map_using_Constructor"/>
