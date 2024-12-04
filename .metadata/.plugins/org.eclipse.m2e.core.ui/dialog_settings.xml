@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\J2EE\Spring\Spring_Configuration_using_XML_and_Annotation"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -43,11 +44,15 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="js.Spring"/>
 			<item value="jsp.Spring"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Inject_value_into_variable_using_valueannotation"/>
+			<item value="Spring_Configuration_using_XML_and_Annotation"/>
+			<item value="DI_Inject_value_to_Map_using_Constructor"/>
 			<item value="DI_Inject_value_into_Collection_using_Constructor"/>
 			<item value="DI_Inject_value_to_reference_Using_Constructor"/>
 			<item value="DI_inject_value_Using_Constructor"/>
