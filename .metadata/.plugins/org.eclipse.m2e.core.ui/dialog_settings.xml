@@ -50,6 +50,10 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Autowired_using_Interface"/>
+			<item value="Inject_value_into_object_using_setter_and_annotation"/>
+			<item value="Inject_value_into_object_with_Constructor_to_refference"/>
+			<item value="Inject_value_into_object_using_refference"/>
 			<item value="Spring_Class_level_annotation"/>
 			<item value="Inject_values_into_variable_using_setter_and_annotation"/>
 			<item value="Inject_value_into_variable_using_Constructor_and_anootation"/>
@@ -61,9 +65,6 @@
 			<item value="DI_inject_value_Using_Constructor"/>
 			<item value="DI_Inject_Object_Using_Map"/>
 			<item value="DI_Inject_list_using_setter"/>
-			<item value="DI_Inject_Object_Reference_Variable_using_setter"/>
-			<item value="DI_inject_values_using_setter"/>
-			<item value="Spring_Demo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

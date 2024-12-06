@@ -1,8 +1,0 @@
-package jsp.Spring;
-
-public class Student {
-	private int id;
-	private String name;
-	private int age;
-
-}
