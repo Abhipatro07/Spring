@@ -50,6 +50,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Qulifier_on_the_top_of_variable"/>
+			<item value="Spring_Configuration_using_Primery_Annotation"/>
 			<item value="Autowired_using_Interface"/>
 			<item value="Inject_value_into_object_using_setter_and_annotation"/>
 			<item value="Inject_value_into_object_with_Constructor_to_refference"/>
@@ -63,8 +65,6 @@
 			<item value="DI_Inject_value_into_Collection_using_Constructor"/>
 			<item value="DI_Inject_value_to_reference_Using_Constructor"/>
 			<item value="DI_inject_value_Using_Constructor"/>
-			<item value="DI_Inject_Object_Using_Map"/>
-			<item value="DI_Inject_list_using_setter"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
